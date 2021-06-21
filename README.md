@@ -1,4 +1,4 @@
-# MobmaximeRN
+# RN
 
 The repository for StarWars.
 
